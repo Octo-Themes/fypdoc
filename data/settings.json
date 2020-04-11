@@ -13,6 +13,10 @@
       "section": "Setup",
       "topics": [
         {
+          "title": "Agency Setting",
+          "slug": "agency-setting"
+        },
+        {
           "title": "Theme configuration",
           "slug": "theme-configuration"
         },
